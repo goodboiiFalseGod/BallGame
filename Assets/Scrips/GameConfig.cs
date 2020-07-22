@@ -17,7 +17,7 @@ public class GameConfig : MonoBehaviour
         {
             CurrentLvl = value; 
 
-            if(CurrentLvl >= LevelsList.Count - 1)
+            if(CurrentLvl > LevelsList.Count - 1)
             {
                 CurrentLvl = 0;
             }
