@@ -250,10 +250,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LevelsList:
-  - {fileID: 2925912162114556274, guid: d25493b9ef46c8a42adfdc86163f9be4, type: 3}
+  - {fileID: 4658370572376823621, guid: 155e7be7bc368da4b8285aabf62ee8fb, type: 3}
+  - {fileID: 4758208757857787255, guid: 06b705c04f022d142a1a3cf105ead266, type: 3}
+  - {fileID: 7333419848219439054, guid: d25493b9ef46c8a42adfdc86163f9be4, type: 3}
+  - {fileID: 976939612327498963, guid: 2b3976e8e5cd99f418b5803ec49bb943, type: 3}
   player: {fileID: 2092876217}
   CurrentLvl: 0
-  currentLevel: {fileID: 2925912162114556274, guid: d25493b9ef46c8a42adfdc86163f9be4,
+  currentLevel: {fileID: 7333419848219439054, guid: d25493b9ef46c8a42adfdc86163f9be4,
     type: 3}
   nextLevel: {fileID: 0}
   previousLevel: {fileID: 0}
@@ -577,7 +580,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -129.4, y: -71.1}
+  m_AnchoredPosition: {x: -129.40002, y: -71.1001}
   m_SizeDelta: {x: 224.67535, y: 99.80333}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1034427688
